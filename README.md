@@ -27,6 +27,10 @@ Öncelikle projeye başlarken altyapı olarak PHP ve MySQL kullanmaya karar ve
 İlk başta benzer proje taraması yapıp sistemin işleyişine dair bilgiler edindik. PHP ile Session, listeleme, POST ve GET istekleri ile alakalı bilgiler edindik. Daha sonra Bootstrap 4 kütüphanesini temel alarak şablonumuzu hazırladık. PhpMyAdmin ile tablolarımızı tasarlayıp PHP ayarlamalarımızı da buna göre yaptık. MySQL sorgularında da aşina olmamız sebebiyle “PDO” yerine “mysqli” sorgularını kullandık.
 
 
+## Sunum
+
+Proje Sunumu için hazırlamış olduğum sunumu da PDF olarak içeriğe ekliyorum. 
+
 ## Lisans
 
 Genel Kamu Lisansı 3.0 ile lisanslanmıştır.
