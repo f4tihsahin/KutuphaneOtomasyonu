@@ -176,7 +176,7 @@ else{
         <!-- /.container-fluid -->
 
         <!-- Sticky Footer -->
-        <?php include('gereksinimler/altyazi.php');?>
+        <?php include('gereksinim/altyazi.php');?>
 
       </div>
       <!-- /.content-wrapper -->

@@ -49,7 +49,7 @@ else{
 
       <!-- Navbar Search -->
      
-        <?php include('gereksinim/ustcubukarama.php');?>
+        <!-- <?php include('gereksinim/ustcubukarama.php');?> -->
         
         
       <!-- Navbar -->
@@ -88,7 +88,7 @@ else{
                     <div class="col-md-6">
                         <div class="panel panel-default">
                         
-<font color="green" align="center"><?php echo htmlentities($_SESSION['msg']);?><?php echo htmlentities($_SESSION['msg']="");?></font>
+
 
 
                       
@@ -96,7 +96,7 @@ else{
                     </div>
                   
                 </div>
-                <font color="red" align="center"><?php echo htmlentities($_SESSION['delmsg']);?><?php echo htmlentities($_SESSION['delmsg']="");?></font>
+                
                 
             
             <div class="row">
@@ -178,7 +178,7 @@ else{
         <!-- /.container-fluid -->
 
         <!-- Sticky Footer -->
-        <?php include('gereksinimler/altyazi.php');?>
+        <?php include('gereksinim/altyazi.php');?>
 
       </div>
       <!-- /.content-wrapper -->
